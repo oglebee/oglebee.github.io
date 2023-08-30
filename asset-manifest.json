@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oglebee.github.io/static/css/main.9b52f558.css",
+    "main.js": "/oglebee.github.io/static/js/main.20c85ea1.js",
+    "static/js/787.b701888c.chunk.js": "/oglebee.github.io/static/js/787.b701888c.chunk.js",
+    "index.html": "/oglebee.github.io/index.html",
+    "static/media/logo.svg": "/oglebee.github.io/static/media/logo.50e129a1a01d0d37a01f901b0cbb30ad.svg",
+    "main.9b52f558.css.map": "/oglebee.github.io/static/css/main.9b52f558.css.map",
+    "main.20c85ea1.js.map": "/oglebee.github.io/static/js/main.20c85ea1.js.map",
+    "787.b701888c.chunk.js.map": "/oglebee.github.io/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b52f558.css",
+    "static/js/main.20c85ea1.js"
+  ]
+}
