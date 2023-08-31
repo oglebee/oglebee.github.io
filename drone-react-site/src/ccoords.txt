@@ -1,0 +1,9 @@
+<path class="prop" d="m60.4 51.6-8.8 8.8"/>
+<path class="prop" d="m11.6 51.6 8.8 8.8"/>
+<path class="prop" d="m11.6 20.4 8.8-8.8"/>
+<path class="prop" d="m60.4 20.4-8.8-8.8"/>
+
+      <div className="propeller top-left"><Prop /></div>
+      <div className="propeller top-right"><Prop /></div>
+      <div className="propeller bottom-left"><Prop /></div>
+      <div className="propeller bottom-right"><Prop /></div>

@@ -1,0 +1,11 @@
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.prop {
+  animation: rotate 2s linear infinite;
+  transform-origin: center;
+  height: 40vmin;
+  pointer-events: none;
+}

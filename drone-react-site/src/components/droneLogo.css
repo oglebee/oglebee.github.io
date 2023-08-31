@@ -1,0 +1,28 @@
+/* droneLogo.css */
+.drone-logo {
+position: relative;
+}
+
+.propeller {
+position: absolute;
+}
+
+.top-left {
+top: -10px;
+left: -10px;
+}
+
+.top-right {
+top: -10px;
+right: -10px;
+}
+
+.bottom-left {
+bottom: -10px;
+left: -10px;
+}
+
+.bottom-right {
+bottom: -10px;
+right: -10px;
+}

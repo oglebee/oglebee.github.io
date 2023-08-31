@@ -7,6 +7,8 @@
   pointer-events: none;
 }
 
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #445b87;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +37,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* CSS for animating all propellers with a single keyframes definition */
+@keyframes spinPropeller {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#prop1 {
+  transform-origin: 71.6666% 71.6666%;
+  animation: spinPropeller 2s linear infinite; /* Adjust the duration as needed */
 }
